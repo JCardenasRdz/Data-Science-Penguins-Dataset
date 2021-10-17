@@ -28,7 +28,7 @@ The goal of this this reposotory is to store code for my data science blog using
 
 ## Contents
 
-1. Probabilistc Graphical Models
+1. [Probabilistc Graphical Models](https://github.com/JCardenasRdz/Data-Science-Penguins-Dataset/tree/main/1-Probabilistc%20Graphical%20Models)
 
 
 ##  Penguins Data SetReferences
